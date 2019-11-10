@@ -4,9 +4,13 @@
 **MongoDB** <--> **servlet** <--> **Httpserver** <--> **AsyncHttp框架** <--> **Android App**
 ### 开发工具
 MongoDB
+
 Myeclipse(MongoDB jar包、AsyncHttp jar包...)
+
 Apache Tomcat
+
 Android Studio
+
 ...
 
 ### servlet架构和android通信图
