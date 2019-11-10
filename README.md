@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 商品移动推荐系统（APP）
 
-You can use the [editor on GitHub](https://github.com/zzy928/products-recommend-APP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 从后台到前端
+**MongoDB** <--> **servlet** <--> **Httpserver** <--> **AsyncHttp框架** <--> **Android App**
+### 开发工具
+MongoDB
+Myeclipse(MongoDB jar包、AsyncHttp jar包...)
+Apache Tomcat
+Android Studio
+...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### servlet架构和android通信图
+![servlet架构和android通信图](https://github.com/zzy928/products-recommend-APP/blob/master/servlet%E6%9E%B6%E6%9E%84%E5%92%8Candroid%E9%80%9A%E4%BF%A1%E5%9B%BE.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzy928/products-recommend-APP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 论文
+未找到论文终稿，只有论文初稿：[下载传送门](https://github.com/zzy928/products-recommend-APP/blob/master/%E5%BC%A0%E6%8C%AF%E6%BA%90_%E5%95%86%E5%93%81%E7%A7%BB%E5%8A%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%88%9D%E7%A8%BF.pdf)
